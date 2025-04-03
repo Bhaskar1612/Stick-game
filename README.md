@@ -57,4 +57,4 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any queries or suggestions, reach out via your.email@example.com or open an issue in the repository.
+For any queries or suggestions, reach out via kashyapbhaskar1612@gmail.com or open an issue in the repository.
